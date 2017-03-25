@@ -8,7 +8,7 @@ Persian Literation, is a class written in php to convert Finglish texts to Persi
 
 	$converter = new ConvertFinglishToFarsi();
 	
-	$converter.Convert('in yek matn e finglish ast'); // این یک متنِ فینگلیش است	
+	echo $converter->Convert('in yek matn e finglish ast'); // این یک متنِ فینگلیش است	
 
 ##Author
 
